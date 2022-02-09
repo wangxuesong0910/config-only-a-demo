@@ -1,0 +1,4 @@
+server:
+  port: 9900
+data:
+  env: config-single-client-dev
